@@ -4,7 +4,7 @@
   "homepage": "https://github.com/NAMA-GITHUB-DEN/NAMA-REPO-DEN",
   "download_url": "PAUTAN-DIRECT-KE-FAIL-ZIP-RELEASE",
   "requires": "5.5",
-  "tested": "6.5",
+  "tested": "6.8.1",
   "last_updated": "2025-06-25 18:50:00",
   "sections": {
     "description": "Satu plugin untuk memilih mana-mana content untuk dikecualikan dari sebarang jenis page cache server-side.",
