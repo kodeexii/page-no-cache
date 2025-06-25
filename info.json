@@ -1,11 +1,11 @@
 {
   "name": "Page Cache Excluder",
-  "version": "2.2.1",
+  "version": "2.3.1",
   "homepage": "https://github.com/NAMA-GITHUB-DEN/NAMA-REPO-DEN",
   "download_url": "PAUTAN-DIRECT-KE-FAIL-ZIP-RELEASE",
   "requires": "5.5",
   "tested": "6.5",
-  "last_updated": "2025-06-25 18:00:00",
+  "last_updated": "2025-06-25 18:50:00",
   "sections": {
     "description": "Satu plugin untuk memilih mana-mana content untuk dikecualikan dari sebarang jenis page cache server-side.",
     "changelog": "<h4>Versi 2.3</h4><ul><li>Penambahbaikan pada fungsi kemaskini dari GitHub.</li><li>Minor bug fixes.</li></ul>"
