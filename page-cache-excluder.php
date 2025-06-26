@@ -3,7 +3,7 @@
  * Plugin Name:       Page Cache Excluder
  * Plugin URI:        https://hadeeroslan.my/plugins/page-cache-excluder
  * Description:       Membolehkan anda memilih mana-mana content untuk dikecualikan dari sebarang jenis page cache server-side, dengan pilihan sumber kemaskini.
- * Version:           2.3.1
+ * Version:           2.3.2
  * Author:            Al-Hadee Mohd Roslan & Mat Gem
  * Author URI:        https://hadeeroslan.my
  */
