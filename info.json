@@ -1,13 +1,13 @@
 {
   "name": "Page Cache Excluder",
-  "version": "2.3.1",
+  "version": "2.3.2",
   "homepage": "https://github.com/kodeexii/page-no-cache",
-  "download_url": "https://github.com/user-attachments/files/20924505/page-cache-excluder.zip",
+  "download_url": "https://github.com/user-attachments/files/20935336/page-cache-excluder.zip",
   "requires": "5.5",
   "tested": "6.8.1",
   "last_updated": "2025-06-25 18:50:00",
   "sections": {
     "description": "Satu plugin untuk memilih mana-mana content untuk dikecualikan dari sebarang jenis page cache server-side.",
-    "changelog": "<h4>Versi 2.3</h4><ul><li>Penambahbaikan pada fungsi kemaskini dari GitHub.</li><li>Minor bug fixes.</li></ul>"
+    "changelog": "<h4>Versi 2.3.2</h4><ul><li>Penambahbaikan - fungsi carian dalam setiap Tab untuk Post Type.</li><li>Minor bug fixes.</li></ul><h4>Versi 2.3.1</h4><ul><li>Penambahbaikan pada fungsi kemaskini dari GitHub.</li><li>Minor bug fixes.</li></ul>"
   }
 }
